@@ -1,0 +1,6 @@
+print("Here is me printing a line.")
+print('Here is me printing a line with single quotes.')
+print("I mean I used single quotes around the string.")
+# print("This line will not be printed.")
+print('Did you see a line that says "This line will not be printed?"')
+print("I thought not.")
